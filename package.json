@@ -1,0 +1,18 @@
+{
+  "name": "discord-badword-filter",
+  "version": "1.0.0",
+  "description": "A Node.js module for filtering bad words in Discord messages with multilanguages",
+  "main": "src/index.js",
+  "keywords": [
+    "discord",
+    "badwords",
+    "filter",
+    "npm",
+    "module"
+  ],
+  "author": "sahinoz",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
